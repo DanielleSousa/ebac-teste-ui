@@ -1,0 +1,44 @@
+[
+{
+    "nome": "Pedro",
+    "sobrenome": "Silva",
+    "empresa": "MercadoLivre",
+    "pais": "Brasil",
+    "rua": "Rua Afonso Guimarães",
+    "numero": "1993",
+    "cidade": "Barueri",
+    "estado": "São Paulo",
+    "cep": "06435001",
+    "telefone": "11-99999-8888",
+    "email": "pedro.silva@ebac.com.br"
+},
+
+{
+    "nome": "Danielle",
+    "sobrenome": "Rodrigues",
+    "empresa": "MercadoPago",
+    "pais": "Brasil",
+    "rua": "Rua Almeida Feitosa",
+    "numero": "2022",
+    "cidade": "Jandira",
+    "estado": "São Paulo",
+    "cep": "06435002",
+    "telefone": "11-99999-7777",
+    "email": "dani_rod@ebac.com.br"
+},
+
+{
+    "nome": "Jaqueline",
+    "sobrenome": "Oliveira",
+    "empresa": "MercadoShops",
+    "pais": "Brasil",
+    "rua": "Edgar Andrade",
+    "numero": "2025",
+    "cidade": "Ouro Preto",
+    "estado": "São Paulo",
+    "cep": "06432000",
+    "telefone": "11-99999-1234",
+    "email": "jaqueline-oliv@ebac.com.br"
+}
+
+]
